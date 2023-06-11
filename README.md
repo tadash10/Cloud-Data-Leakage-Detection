@@ -3,6 +3,7 @@
 
 This Python script scans cloud storage repositories, such as AWS S3 buckets or Azure Blob Storage, for sensitive data leaks. It utilizes pattern matching or machine learning techniques to identify personally identifiable information (PII), credit card numbers, or other confidential data. The script provides a summary of detected leaks and recommendations for remediation.
 
+v3 update :version (v3.py) of the script that incorporates three of the requested improvements: error handling, logging, and enhanced data patterns. 
 ## ISO Standards Compliance
 
 The Cloud Data Leakage Detection script aligns with the following ISO standards for cloud security:
